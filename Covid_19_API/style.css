@@ -1,0 +1,15 @@
+
+
+$display-font-sizes: (
+    1: 5rem,
+    2: 4.5rem,
+    3: 4rem,
+    4: 3.5rem,
+    5: 3rem,
+    6: 2.5rem
+  );
+  
+  /* $display-font-family: null;
+  $display-font-style:  null;
+  $display-font-weight: 300;
+  $display-line-height: $headings-line-height; */
